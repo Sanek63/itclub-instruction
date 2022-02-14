@@ -104,7 +104,7 @@ PONG
 ## Windows
 TODO
 
-# Инструкция по установке Celery Linux
+# Инструкция по установке Celery
 #### 1) Установить зависимости:
 ```shell
 pip install celery=5.2.3 celery[redis]
